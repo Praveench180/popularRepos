@@ -1,0 +1,29 @@
+/* Write your CSS here */
+li {
+  background-color: #ffffff;
+
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.image {
+  height: 100px;
+  width: 100px;
+  margin-bottom: 4px;
+}
+
+.icon {
+  height: 25px;
+  width: 25px;
+  margin-left: 5px;
+}
+.card {
+  display: flex;
+}
+.head {
+  color: red;
+  font-size: 13px;
+  text-align: center;
+}
